@@ -3,6 +3,7 @@
   "repository": "https://github.com/zzh8829/vscode-factorio-blueprint",
   "license": "MIT",
   "author": "zzh8829",
+  "publisher": "zzh8829",
   "displayName": "Factorio Blueprint",
   "description": "Import and export Factorio blueprints",
   "version": "0.0.1",
